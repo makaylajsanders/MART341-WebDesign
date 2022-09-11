@@ -1,0 +1,3 @@
+A directory is a file system that contains references to other computer files or other directories.
+Version control system is useful to see all the changes that were made. You can track your changes, revert back to old changes, and collaborate with others. 
+My favorite kind of artistic medium is ink. I love watching documentaries with recovered documents, and all the old writings. It is very elegant. 
